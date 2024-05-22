@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">The Kings Avatar Quiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_question_button">Next Question!</string>
+    <string name="question_text"></string>
+
+
+    //questions from question list
+
+    <string name="question_1">The main character is Ye Xiu.</string>
+    <string name="question_2">Ye Xius sister is Su Mucheng.</string>
+    <string name="question_3">Su Mucheng is/was the captain of Excellent Era.</string>
+    <string name="question_4">Chen Guo plays for Happy.</string>
+    <string name="question_5">Ye Xiu has an account called Unrivaled Super Hottie.</string>
+    <string name="question_6">Ye Xiu made the Unrivaled Super Hottie account.</string>
+    <string name="question_7">The Unrivaled Super Hottie account is a knight class.</string>
+    <string name="question_8">Su Muqiu made the design for the Myriad Manifestation Umbrella.</string>
+
+    <string name="right_answer">Correct!!</string>
+    <string name="wrong_answer">Incorrect :(</string>
+    <string name="are_you_sure_text">Are you sure you want to cheat?</string>
+    <string name="im_sure_text">I\'m sure!</string>
+    <string name="you_won_text">YOU WON! :)</string>
+    <string name="cheat_button_text">Cheat</string>
+    <string name="cheat_toast_text">Cheating is wrong!</string>
+
+    <string name="about_text">This is a quiz about the novel, donghua, and manhua The Kings Avatar!\n\n\nThank you for playing!</string>
+    <string name="about">About</string>
+
+    <string name="game_won_alert_title">"Congratulations!</string>
+    <string name="game_won_alert_body">"You won! Would you like to play again?</string>
+
+
+
+
+
+</resources>
